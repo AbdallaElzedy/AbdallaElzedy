@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 334 68" width="334" height="68" fill="none" role="img" aria-label="Neural Predictiva">
+<circle cx="40" cy="34" r="33" stroke="#58a6ff" stroke-width="1.2" opacity="0.25"/>
+<circle cx="40" cy="34" r="33" stroke="#58a6ff" stroke-width="1.2" opacity="0.4" stroke-dasharray="3 8"/>
+<line x1="12" y1="35" x2="16.5" y2="31" stroke="#58a6ff" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="16.5" y1="31" x2="21" y2="38" stroke="#58a6ff" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="21" y1="38" x2="25.5" y2="32" stroke="#58a6ff" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="25.5" y1="32" x2="30" y2="37" stroke="#58a6ff" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="30" y1="37" x2="34.5" y2="31" stroke="#58a6ff" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="34.5" y1="31" x2="39" y2="26" stroke="#58a6ff" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="39" y1="26" x2="43.5" y2="23" stroke="#58a6ff" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="43.5" y1="23" x2="48" y2="45" stroke="#58a6ff" stroke-width="2.6" stroke-linecap="round"/>
+<line x1="48" y1="45" x2="52.5" y2="29" stroke="#58a6ff" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="52.5" y1="29" x2="57" y2="37" stroke="#58a6ff" stroke-width="2.4" stroke-linecap="round"/>
+<line x1="57" y1="37" x2="62" y2="33" stroke="#58a6ff" stroke-width="2.2" stroke-linecap="round"/>
+<line x1="62" y1="33" x2="67" y2="35" stroke="#58a6ff" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="12" cy="35" r="2.8" fill="#58a6ff"/>
+<circle cx="16.5" cy="31" r="2.8" fill="#58a6ff"/>
+<circle cx="21" cy="38" r="2.8" fill="#58a6ff"/>
+<circle cx="25.5" cy="32" r="3.0" fill="#58a6ff"/>
+<circle cx="30" cy="37" r="3.0" fill="#58a6ff"/>
+<circle cx="34.5" cy="31" r="3.2" fill="#58a6ff"/>
+<circle cx="39" cy="26" r="3.5" fill="#58a6ff"/>
+<circle cx="43.5" cy="23" r="3.8" fill="#58a6ff"/>
+<circle cx="48" cy="45" r="3.5" fill="#58a6ff"/>
+<circle cx="52.5" cy="29" r="3.2" fill="#58a6ff"/>
+<circle cx="57" cy="37" r="3.0" fill="#58a6ff"/>
+<circle cx="62" cy="33" r="2.8" fill="#58a6ff"/>
+<circle cx="67" cy="35" r="2.8" fill="#58a6ff"/>
+<text x="90" y="41" font-family="Share Tech Mono, ui-monospace, monospace" font-size="21" letter-spacing="3.15"><tspan fill="#e6edf3">NEURAL</tspan><tspan fill="#58a6ff" dx="7">PREDICTIVA</tspan></text>
+</svg>
